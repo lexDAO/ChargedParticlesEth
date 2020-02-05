@@ -1,6 +1,8 @@
-ChargedParticles -- Interest-bearing NFTs based on the DAI Savings Token
+MoneyStampsERC721.sol -- Interest-bearing NFTs with lexStamps based on the DAI Savings Token
+- Adapted from ChargedParticlesERC721.sol - https://github.com/robsecord/ChargedParticlesEth
+
 MIT License
-Copyright (c) 2019, 2020 Rob Secord <robsecord.eth>
+Copyright (c) 2020 Open, ESQ LLC
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,8 +21,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-
 
 Chai.sol -- a dai savings token
 Copyright (C) 2017, 2018, 2019, 2020 dbrock, rain, mrchico, lucasvo, livnev
